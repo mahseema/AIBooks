@@ -2,7 +2,7 @@
 
 A complete guide to connect free version of chatgpt to the internet
 
-- [WebChatGPT](using-webchatgpt-to-connect-chatgpt-to-the-internet)
+- [WebChatGPT](#using-webchatgpt-to-connect-chatgpt-to-the-internet)
 
 
 
