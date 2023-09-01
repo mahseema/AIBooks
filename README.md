@@ -8,6 +8,8 @@ A complete guide to connect free version of chatgpt to the internet
 
 ## Using WebChatGPT To Connect ChatGPT To The Internet
 
+[![WebChatGPT To Connect ChatGPT To The Internet](webchatgpt.png)](#using-webchatgpt-to-connect-chatgpt-to-the-internet)
+
 
 1. **Install the plugin**
 
