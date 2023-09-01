@@ -1,6 +1,6 @@
 # How To Connect ChatGPT To The Internet?
 
-A complete guide to connect free version of chatgpt to the internet
+A complete guide to connect free version of chatgpt to the internet by [@mahseema](https://github.com/mahseema)
 
 - [WebChatGPT](#using-webchatgpt-to-connect-chatgpt-to-the-internet)
 
