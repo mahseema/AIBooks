@@ -3,6 +3,7 @@
 A complete guide to connect free version of chatgpt to the internet by [@mahseema](https://github.com/mahseema)
 
 - [WebChatGPT](#using-webchatgpt-to-connect-chatgpt-to-the-internet)
+- [Frequently Asked Questions](#faq)
 
 
 
@@ -26,4 +27,23 @@ In the new interface, type your query. You can also choose to change the number 
 4. **Click "Send"**
 
 Click the "Send" button to send your query to WebChatGPT. WebChatGPT will then retrieve web results for your query and generate a summary of the results.
+
+
+FAQ
+----
+
+### Can you connect chatgpt (free version) to the internet?
+
+If you're on a free account on ChatGPT, the responses you get won't include information from the internet. But you can use plugins like WebchatGPT to connect the free version of chatGPT to the Internet.
+
+### Is chatgpt connected to the internet?
+
+Indeed, ChatGPT offers internet connectivity! By subscribing to either ChatGPT Plus or ChatGPT Enterprise, users gain access to the GPT-4 model, equipped with web browsing capabilities. Also with this articles tutorials you can connect the free version of chatGPT to the Internet.
+
+### Is chatgpt 4 connected to the internet?
+
+Yes. With a paid subscription to ChatGPT Plus or ChatGPT Enterprise.
+
+
+
 
